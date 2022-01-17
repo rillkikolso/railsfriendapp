@@ -1,24 +1,7 @@
-# README
+Friend list App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello this is my first Ruby on Rails app.
 
-Things you may want to cover:
+This is list of friends, like contacts book. Where you can add your friends, and your friends can add they friends. They can be edited, or create, or delete.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Some of CRUD operations can make only current user who logged in app
